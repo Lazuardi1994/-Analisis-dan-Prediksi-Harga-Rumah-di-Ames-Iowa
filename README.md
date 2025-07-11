@@ -34,7 +34,7 @@ Model Random Forest memberikan performa terbaik dibandingkan dengan Regresi Line
 
 Fitur `OverallQual` (kualitas keseluruhan) dan `GrLivArea` (luas area tinggal) terbukti menjadi prediktor harga yang paling kuat.
 
-![Heatmap Korelasi](visualizations/correlation_heatmap.png)
+![Heatmap Korelasi](Visualizations/correlation_heatmap.png)
 ### 💻 Cara Menjalankan
 1.  **Clone repository ini:**
     `git clone https://github.com/your-username/project-name.git`
